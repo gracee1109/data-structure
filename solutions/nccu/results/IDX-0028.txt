@@ -1,0 +1,12 @@
+insert US: US(.,.)
+insert Sales: US(.,Sales(.,.))
+RL at US
+insert Asia: Asia(US(.,.),Sales(.,.))
+insert International: Asia(US(.,.),Sales(.,International(.,.)))
+RL at Sales
+insert Canada: Asia(US(.,.),Canada(Sales(.,.),International(.,.)))
+RR at Asia
+insert Computers"R"Us: Canada(Asia(US(.,.),Sales(.,.)),International(.,Computers"R"Us(.,.)))
+insert Laptops: Canada(Asia(US(.,.),Sales(.,.)),International(Laptops(.,.),Computers"R"Us(.,.)))
+insert Manufacturing: Canada(Asia(US(.,.),Sales(.,.)),International(Laptops(.,.),Computers"R"Us(Manufacturing(.,.),.)))
+insert Desktops: Canada(Asia(US(.,.),Sales(.,.)),International(Laptops(.,Desktops(.,.)),Computers"R"Us(Manufacturing(.,.),.)))

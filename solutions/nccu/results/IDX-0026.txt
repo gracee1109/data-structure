@@ -1,0 +1,9 @@
+insert Computers"R"Us: Computers"R"Us
+insert Sales: Sales Computers"R"Us
+insert US: US Computers"R"Us Sales
+insert International: US International Sales Computers"R"Us
+insert Asia: US Asia Sales Computers"R"Us International
+insert Canada: US Asia Sales Computers"R"Us International Canada
+insert Manufacturing: US Asia Sales Computers"R"Us International Canada Manufacturing
+insert Laptops: US Asia Sales Laptops International Canada Manufacturing Computers"R"Us
+insert Desktops: US Asia Sales Laptops International Canada Manufacturing Computers"R"Us Desktops

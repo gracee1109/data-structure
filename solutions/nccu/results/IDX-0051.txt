@@ -1,0 +1,2 @@
+1 2 3 4 5
+choice=A; selection Theta(n^2), merge Theta(n log n)

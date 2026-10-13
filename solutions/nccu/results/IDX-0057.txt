@@ -1,0 +1,3 @@
+tree: +(*(-(*(A(.,.),B(.,.)),C(.,.)),D(.,.)),E(.,.))
+prefix: +*-*ABCDE
+postfix: AB*C-D*E+

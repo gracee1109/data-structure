@@ -225,6 +225,9 @@ def write_outputs(out, rows, exams, counts):
         report.append('')
         per_school = [f'# {school}：第一階段題目索引', '',
                       'PDF頁碼從封面起算為1。分類為文字掃描結果；規則與限制見 [完整索引](題目索引.md)。', '']
+        if school == '政大' and (Path(__file__).resolve().parents[1] / 'solutions/nccu/README.md').is_file():
+            per_school += ['## 已完成題解', '',
+                           '[政大34筆題解、C++17與執行結果](../../solutions/nccu/README.md)（IDX-0025–IDX-0058）。', '']
         per_school.extend(report[start + 2:])
         (out / f'{school}.md').write_text('\n'.join(per_school), encoding='utf-8')
     (out / '題目索引.md').write_text('\n'.join(report), encoding='utf-8')

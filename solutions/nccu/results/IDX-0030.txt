@@ -1,0 +1,22 @@
+US: 1
+Asia: 4
+Canada: 11
+International: 9
+Sales: 4 -> 9 -> 1 -> 6
+Laptops: 8
+Desktops: 5
+Manufacturing: 5 -> 7
+Computers"R"Us: 6 -> 0
+0:Computers"R"Us
+1:US
+2:.
+3:.
+4:Asia
+5:Desktops
+6:Sales
+7:Manufacturing
+8:Laptops
+9:International
+10:.
+11:Canada
+12:.

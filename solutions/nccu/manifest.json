@@ -1,0 +1,613 @@
+[
+  {
+    "id": "IDX-0025",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "major": "第1題",
+    "pdf_pages": [
+      86
+    ],
+    "subquestions": [
+      "第1題"
+    ],
+    "title": "字串樹前序走訪",
+    "source": "IDX-0025.cpp",
+    "explanation": "IDX-0025.md",
+    "result": "results/IDX-0025.txt",
+    "time_complexity": "Θ(n+S)，S是輸出的字串總長；固定長度鍵值時為Θ(n)。"
+  },
+  {
+    "id": "IDX-0026",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "major": "第2題",
+    "pdf_pages": [
+      87
+    ],
+    "subquestions": [
+      "第2題"
+    ],
+    "title": "自訂字串順序建 Min-Heap",
+    "source": "IDX-0026.cpp",
+    "explanation": "IDX-0026.md",
+    "result": "results/IDX-0026.txt",
+    "time_complexity": "逐一插入最壞O(nL log n)，L為最長字串長度。列印每次完整堆積另需O(n²L)。"
+  },
+  {
+    "id": "IDX-0027",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "major": "第3題",
+    "pdf_pages": [
+      88
+    ],
+    "subquestions": [
+      "第3題"
+    ],
+    "title": "字串樹中序走訪",
+    "source": "IDX-0027.cpp",
+    "explanation": "IDX-0027.md",
+    "result": "results/IDX-0027.txt",
+    "time_complexity": "Θ(n+S)，固定長度鍵值為Θ(n)。"
+  },
+  {
+    "id": "IDX-0028",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "major": "第4題",
+    "pdf_pages": [
+      88
+    ],
+    "subquestions": [
+      "第4題"
+    ],
+    "title": "自訂字串比較的 AVL 插入",
+    "source": "IDX-0028.cpp",
+    "explanation": "IDX-0028.md",
+    "result": "results/IDX-0028.txt",
+    "time_complexity": "比較成本O(L)，建樹O(nL log n)；每次列印整棵樹及檢查不變量另需O(n²L)。"
+  },
+  {
+    "id": "IDX-0029",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "major": "第5題",
+    "pdf_pages": [
+      89
+    ],
+    "subquestions": [
+      "第5題"
+    ],
+    "title": "字串樹後序走訪",
+    "source": "IDX-0029.cpp",
+    "explanation": "IDX-0029.md",
+    "result": "results/IDX-0029.txt",
+    "time_complexity": "Θ(n+S)，固定長度鍵值為Θ(n)。"
+  },
+  {
+    "id": "IDX-0030",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "major": "第6題",
+    "pdf_pages": [
+      90
+    ],
+    "subquestions": [
+      "第6題"
+    ],
+    "title": "字串鍵 Double Hashing",
+    "source": "IDX-0030.cpp",
+    "explanation": "IDX-0030.md",
+    "result": "results/IDX-0030.txt",
+    "time_complexity": "Θ(S+P)，S為總字串長、P為實際探測總數；容量m時最壞O(S+nm)。本題m=13固定，為O(S+n)。"
+  },
+  {
+    "id": "IDX-0031",
+    "year": 115,
+    "subject": "計算機概論（科技組）",
+    "major": "第7題",
+    "pdf_pages": [
+      84
+    ],
+    "subquestions": [
+      "第7題"
+    ],
+    "title": "線性時間、常數空間 Fibonacci",
+    "source": "IDX-0031.cpp",
+    "explanation": "IDX-0031.md",
+    "result": "results/IDX-0031.txt",
+    "time_complexity": "Θ(n)，以固定寬度整數加法為O(1)的模型計算。"
+  },
+  {
+    "id": "IDX-0032",
+    "year": 115,
+    "subject": "計算機概論（科技組）",
+    "major": "第8題",
+    "pdf_pages": [
+      85
+    ],
+    "subquestions": [
+      "第8題"
+    ],
+    "title": "列舉所有高度不超過 n 的二元樹",
+    "source": "IDX-0032.cpp",
+    "explanation": "IDX-0032.md",
+    "result": "results/IDX-0032.txt",
+    "time_complexity": "令Bn=1+B(n-1)²、B0=1；令Sn為全部序列化輸出的字元數，此程式Θ(Sn)。Sn=O(2^n Bn)，Bn呈雙重指數成長。"
+  },
+  {
+    "id": "IDX-0033",
+    "year": 115,
+    "subject": "計算機概論（資管組）",
+    "major": "第7題",
+    "pdf_pages": [
+      79
+    ],
+    "subquestions": [
+      "第7題"
+    ],
+    "title": "一般無向圖的最長簡單路徑",
+    "source": "IDX-0033.cpp",
+    "explanation": "IDX-0033.md",
+    "result": "results/IDX-0033.txt",
+    "time_complexity": "最壞O(n²·2^n)。一般圖最長簡單路徑為NP-hard，這是精確的指數時間解法，沒有用最短路徑BFS替代。"
+  },
+  {
+    "id": "IDX-0034",
+    "year": 114,
+    "subject": "資料結構（科技組）",
+    "major": "I",
+    "pdf_pages": [
+      107
+    ],
+    "subquestions": [
+      "I.1",
+      "I.2"
+    ],
+    "title": "Heap Sort 與完整追蹤（114）",
+    "source": "IDX-0034.cpp",
+    "explanation": "IDX-0034.md",
+    "result": "results/IDX-0034.txt",
+    "time_complexity": "建堆Θ(n)，排序Θ(n log n)。此示範列印每次完整陣列，因此整段追蹤輸出為Θ(n²)。"
+  },
+  {
+    "id": "IDX-0035",
+    "year": 114,
+    "subject": "資料結構（科技組）",
+    "major": "III",
+    "pdf_pages": [
+      109,
+      113
+    ],
+    "subquestions": [
+      "III.2",
+      "III.1",
+      "III.3"
+    ],
+    "title": "AVL Sort 與刪除14、36（114）",
+    "source": "IDX-0035.cpp",
+    "explanation": "IDX-0035.md",
+    "result": "results/IDX-0035.txt",
+    "time_complexity": "建樹O(n log n)，中序Θ(n)，每次刪除O(log n)。追蹤及逐步驗證另需O(n²)。"
+  },
+  {
+    "id": "IDX-0036",
+    "year": 114,
+    "subject": "資料結構（科技組）",
+    "major": "II",
+    "pdf_pages": [
+      111
+    ],
+    "subquestions": [
+      "II.1",
+      "II.2"
+    ],
+    "title": "In-place Quick Sort（114）",
+    "source": "IDX-0036.cpp",
+    "explanation": "IDX-0036.md",
+    "result": "results/IDX-0036.txt",
+    "time_complexity": "平均Θ(n log n)，最壞Θ(n²)。逐次列印完整陣列的示範另需O(n²)輸出時間。"
+  },
+  {
+    "id": "IDX-0037",
+    "year": 114,
+    "subject": "計算機概論（科技組）",
+    "major": "第4題",
+    "pdf_pages": [
+      102
+    ],
+    "subquestions": [
+      "第4題"
+    ],
+    "title": "Dijkstra 原理與負邊反例",
+    "source": "IDX-0037.cpp",
+    "explanation": "IDX-0037.md",
+    "result": "results/IDX-0037.txt",
+    "time_complexity": "此矩陣版Θ(V²)；非負鄰接串列搭配真正decrease-key二元堆積可達O((V+E) log V)。"
+  },
+  {
+    "id": "IDX-0038",
+    "year": 113,
+    "subject": "資料結構（科技組）",
+    "major": "I",
+    "pdf_pages": [
+      139,
+      141
+    ],
+    "subquestions": [
+      "I.1",
+      "I.2"
+    ],
+    "title": "Bottom-up Max-Heap 與排序（113）",
+    "source": "IDX-0038.cpp",
+    "explanation": "IDX-0038.md",
+    "result": "results/IDX-0038.txt",
+    "time_complexity": "建堆Θ(n)，排序Θ(n log n)；列印每次完整陣列另需Θ(n²)。"
+  },
+  {
+    "id": "IDX-0039",
+    "year": 113,
+    "subject": "資料結構（科技組）",
+    "major": "II",
+    "pdf_pages": [
+      141,
+      143
+    ],
+    "subquestions": [
+      "II.1",
+      "II.2"
+    ],
+    "title": "AVL 建樹與排序（113）",
+    "source": "IDX-0039.cpp",
+    "explanation": "IDX-0039.md",
+    "result": "results/IDX-0039.txt",
+    "time_complexity": "建樹O(n log n)，已建樹的中序輸出Θ(n)；示範追蹤及驗證另需O(n²)。"
+  },
+  {
+    "id": "IDX-0040",
+    "year": 113,
+    "subject": "資料結構（科技組）",
+    "major": "III",
+    "pdf_pages": [
+      143,
+      144,
+      145
+    ],
+    "subquestions": [
+      "III.1",
+      "III.2",
+      "III.3",
+      "III.4"
+    ],
+    "title": "Merge Sort 與首元素 pivot Quick Sort（113）",
+    "source": "IDX-0040.cpp",
+    "explanation": "IDX-0040.md",
+    "result": "results/IDX-0040.txt",
+    "time_complexity": "Merge：T(n)=2T(n/2)+Θ(n)=Θ(n log n)，列印合併子區間仍為O(n log n)。Quick平均Θ(n log n)、最壞Θ(n²)，完整陣列追蹤另需O(n²)。"
+  },
+  {
+    "id": "IDX-0041",
+    "year": 113,
+    "subject": "計算機概論（科技組）",
+    "major": "第3題",
+    "pdf_pages": [
+      128
+    ],
+    "subquestions": [
+      "第3題"
+    ],
+    "title": "網路協定敘述判斷（科技組）",
+    "source": "IDX-0041.cpp",
+    "explanation": "IDX-0041.md",
+    "result": "results/IDX-0041.txt",
+    "time_complexity": "原題為概念判斷，沒有待分析的求解演算法。C++最小示例的Dijkstra為Θ(V²)；列出固定5個判斷為O(1)。"
+  },
+  {
+    "id": "IDX-0042",
+    "year": 113,
+    "subject": "計算機概論（科技組）",
+    "major": "短答題7",
+    "pdf_pages": [
+      137
+    ],
+    "subquestions": [
+      "短答題7"
+    ],
+    "title": "O(k²)時間、O(k)空間 Pascal 第 k 列",
+    "source": "IDX-0042.cpp",
+    "explanation": "IDX-0042.md",
+    "result": "results/IDX-0042.txt",
+    "time_complexity": "Θ(k²)，以uint64_t加法O(1)計。"
+  },
+  {
+    "id": "IDX-0043",
+    "year": 113,
+    "subject": "計算機概論（資管組）",
+    "major": "第4題",
+    "pdf_pages": [
+      117
+    ],
+    "subquestions": [
+      "第4題"
+    ],
+    "title": "網路協定敘述判斷（資管組）",
+    "source": "IDX-0043.cpp",
+    "explanation": "IDX-0043.md",
+    "result": "results/IDX-0043.txt",
+    "time_complexity": "概念題本身沒有求解演算法；程式展示的矩陣Dijkstra為Θ(V²)，固定答案輸出O(1)。"
+  },
+  {
+    "id": "IDX-0044",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "major": "I",
+    "pdf_pages": [
+      163,
+      164
+    ],
+    "subquestions": [
+      "I.1",
+      "I.2"
+    ],
+    "title": "LCS 遞迴式、完整 DP 表與還原",
+    "source": "IDX-0044.cpp",
+    "explanation": "IDX-0044.md",
+    "result": "results/IDX-0044.txt",
+    "time_complexity": "Θ(mn)填表，O(m+n)還原；本例m=13、n=10。"
+  },
+  {
+    "id": "IDX-0045",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "major": "II",
+    "pdf_pages": [
+      165,
+      166
+    ],
+    "subquestions": [
+      "II.3",
+      "II.1",
+      "II.2"
+    ],
+    "title": "AVL 插入、中序與 Splay put(118)",
+    "source": "IDX-0045.cpp",
+    "explanation": "IDX-0045.md",
+    "result": "results/IDX-0045.txt",
+    "time_complexity": "AVL建樹O(n log n)，中序Θ(n)。這次put是在平衡樹上，O(log n)；一般Splay單次最壞O(n)，一串操作攤還O(log n)。列印建樹追蹤另需O(n²)。"
+  },
+  {
+    "id": "IDX-0046",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "major": "III",
+    "pdf_pages": [
+      167,
+      168
+    ],
+    "subquestions": [
+      "III.1",
+      "III.2"
+    ],
+    "title": "Linear Probing 與 Double Hashing",
+    "source": "IDX-0046.cpp",
+    "explanation": "IDX-0046.md",
+    "result": "results/IDX-0046.txt",
+    "time_complexity": "Θ(P)，P為總探測數；一般最壞O(nm)，本題m=27固定故O(n)。在受控負載與適當雜湊假設下才可說平均每次O(1)。"
+  },
+  {
+    "id": "IDX-0047",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "major": "IV",
+    "pdf_pages": [
+      169,
+      170,
+      171
+    ],
+    "subquestions": [
+      "IV.1",
+      "IV.2",
+      "IV.3"
+    ],
+    "title": "運算式樹、求值與正確括號",
+    "source": "IDX-0047.cpp",
+    "explanation": "IDX-0047.md",
+    "result": "results/IDX-0047.txt",
+    "time_complexity": "Θ(t)解析、Θ(t)求值、Θ(t)列印；t為token數，字元掃描另為Θ(c)。整體O(c+t)。"
+  },
+  {
+    "id": "IDX-0048",
+    "year": 112,
+    "subject": "計算機概論（科技組）",
+    "major": "問答題8",
+    "pdf_pages": [
+      162
+    ],
+    "subquestions": [
+      "問答題8"
+    ],
+    "title": "Balanced String 最大拆分",
+    "source": "IDX-0048.cpp",
+    "explanation": "IDX-0048.md",
+    "result": "results/IDX-0048.txt",
+    "time_complexity": "Θ(n)，單次掃描。"
+  },
+  {
+    "id": "IDX-0049",
+    "year": 112,
+    "subject": "計算機概論（資管組）",
+    "major": "選擇題5",
+    "pdf_pages": [
+      149
+    ],
+    "subquestions": [
+      "選擇題5"
+    ],
+    "title": "原圖 Prefix 與 Postfix",
+    "source": "IDX-0049.cpp",
+    "explanation": "IDX-0049.md",
+    "result": "results/IDX-0049.txt",
+    "time_complexity": "Θ(n)，每個節點各走訪一次。"
+  },
+  {
+    "id": "IDX-0050",
+    "year": 112,
+    "subject": "計算機概論（資管組）",
+    "major": "選擇題6",
+    "pdf_pages": [
+      150
+    ],
+    "subquestions": [
+      "選擇題6"
+    ],
+    "title": "高度4 AVL 的最少／最多節點",
+    "source": "IDX-0050.cpp",
+    "explanation": "IDX-0050.md",
+    "result": "results/IDX-0050.txt",
+    "time_complexity": "最少節點迭代Θ(h)，固定寬度移位求最大值O(1)；本題h=4故為常數規模。"
+  },
+  {
+    "id": "IDX-0051",
+    "year": 112,
+    "subject": "計算機概論（資管組）",
+    "major": "選擇題7",
+    "pdf_pages": [
+      150
+    ],
+    "subquestions": [
+      "選擇題7"
+    ],
+    "title": "Selection Sort／Merge Sort 最壞成本",
+    "source": "IDX-0051.cpp",
+    "explanation": "IDX-0051.md",
+    "result": "results/IDX-0051.txt",
+    "time_complexity": "Selection所有情況Θ(n²)；Merge最壞Θ(n log n)。"
+  },
+  {
+    "id": "IDX-0052",
+    "year": 111,
+    "subject": "資料結構（科技組）",
+    "major": "I",
+    "pdf_pages": [
+      191,
+      192,
+      193
+    ],
+    "subquestions": [
+      "I.a",
+      "I.b",
+      "I.c"
+    ],
+    "title": "Min-Heap 建構、取最小排序（111）",
+    "source": "IDX-0052.cpp",
+    "explanation": "IDX-0052.md",
+    "result": "results/IDX-0052.txt",
+    "time_complexity": "建堆Θ(n)，反覆extract-min Θ(n log n)。每次列印剩餘堆積的追蹤另需Θ(n²)。"
+  },
+  {
+    "id": "IDX-0053",
+    "year": 111,
+    "subject": "資料結構（科技組）",
+    "major": "II",
+    "pdf_pages": [
+      194,
+      195
+    ],
+    "subquestions": [
+      "II.a",
+      "II.b",
+      "II.c"
+    ],
+    "title": "AVL／BST Sort 與追蹤（111）",
+    "source": "IDX-0053.cpp",
+    "explanation": "IDX-0053.md",
+    "result": "results/IDX-0053.txt",
+    "time_complexity": "建樹O(n log n)，中序Θ(n)；逐步列印與驗證另需O(n²)。"
+  },
+  {
+    "id": "IDX-0054",
+    "year": 111,
+    "subject": "資料結構（科技組）",
+    "major": "III",
+    "pdf_pages": [
+      196
+    ],
+    "subquestions": [
+      "III.a",
+      "III.b"
+    ],
+    "title": "Merge Sort 演算法與追蹤（111）",
+    "source": "IDX-0054.cpp",
+    "explanation": "IDX-0054.md",
+    "result": "results/IDX-0054.txt",
+    "time_complexity": "Θ(n log n)；追蹤列印的是合併區間，全部層合計仍O(n log n)。"
+  },
+  {
+    "id": "IDX-0055",
+    "year": 111,
+    "subject": "計算機概論（科技組）",
+    "major": "是非題6",
+    "pdf_pages": [
+      182
+    ],
+    "subquestions": [
+      "是非題6"
+    ],
+    "title": "Dijkstra 計算與 Link-state 訊息成本",
+    "source": "IDX-0055.cpp",
+    "explanation": "IDX-0055.md",
+    "result": "results/IDX-0055.txt",
+    "time_complexity": "本地Dijkstra Θ(N²)；示例對N個來源各flood一次，O(N(N+E))本地處理，連通圖可化為O(NE)；訊息數O(NE)。"
+  },
+  {
+    "id": "IDX-0056",
+    "year": 111,
+    "subject": "計算機概論（科技組）",
+    "major": "是非題10",
+    "pdf_pages": [
+      183
+    ],
+    "subquestions": [
+      "是非題10"
+    ],
+    "title": "子樹K的 BFS 真偽",
+    "source": "IDX-0056.cpp",
+    "explanation": "IDX-0056.md",
+    "result": "results/IDX-0056.txt",
+    "time_complexity": "樹Θ(n)；一般鄰接串列圖O(V+E)。"
+  },
+  {
+    "id": "IDX-0057",
+    "year": 111,
+    "subject": "計算機概論（科技組）",
+    "major": "問答題8",
+    "pdf_pages": [
+      188
+    ],
+    "subquestions": [
+      "問答題8"
+    ],
+    "title": "運算式樹與前／後置（111）",
+    "source": "IDX-0057.cpp",
+    "explanation": "IDX-0057.md",
+    "result": "results/IDX-0057.txt",
+    "time_complexity": "Θ(t)，建構／走訪每個token一次。"
+  },
+  {
+    "id": "IDX-0058",
+    "year": 111,
+    "subject": "計算機概論（資管組）",
+    "major": "第10題",
+    "pdf_pages": [
+      175
+    ],
+    "subquestions": [
+      "第10題"
+    ],
+    "title": "無序串列／有序串列搜尋",
+    "source": "IDX-0058.cpp",
+    "explanation": "IDX-0058.md",
+    "result": "results/IDX-0058.txt",
+    "time_complexity": "Sequential最壞Θ(n)；Binary最壞Θ(log n)，最佳均O(1)。"
+  }
+]

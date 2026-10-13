@@ -1,0 +1,1 @@
+true statements: AD; choice=3; example shortest distance=3
