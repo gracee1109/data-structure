@@ -185,7 +185,7 @@ def write_outputs(out, rows, exams, counts):
                             '、'.join(row['labels']), row['volume'], format_pages(row['pages']),
                             '、'.join(row['topics'])])
     with (out / '題目索引.csv').open('w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(columns)
         writer.writerows(public_rows)
     (out / '題目索引.json').write_text(json.dumps(rows, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
@@ -229,7 +229,7 @@ def write_outputs(out, rows, exams, counts):
         (out / f'{school}.md').write_text('\n'.join(per_school), encoding='utf-8')
     (out / '題目索引.md').write_text('\n'.join(report), encoding='utf-8')
     with (out / '考卷目錄.csv').open('w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(['學校', '年度（民國）', '考科', '冊別', 'PDF開始頁碼'])
         for e in exams:
             writer.writerow([e['school'], e['year'], e['subject'], e['volume'], e['start_page']])
