@@ -1,0 +1,8359 @@
+[
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第1題",
+    "pages": [
+      13
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "雜湊",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0001"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第2題",
+    "pages": [
+      13
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0002"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第3題",
+    "pages": [
+      13
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0003"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第4題",
+    "pages": [
+      14
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0004"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第5題",
+    "pages": [
+      14
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0005"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第6題",
+    "pages": [
+      14
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "排序",
+      "圖論"
+    ],
+    "id": "IDX-0006"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第16題",
+    "pages": [
+      18
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0007"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第18題",
+    "pages": [
+      18
+    ],
+    "labels": [
+      "第18題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0008"
+  },
+  {
+    "school": "臺大",
+    "year": 115,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "程式設計題",
+    "pages": [
+      24
+    ],
+    "labels": [
+      "程式設計題(a)",
+      "程式設計題(b)",
+      "程式設計題(c)"
+    ],
+    "topics": [
+      "排序",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0009"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第1題",
+    "pages": [
+      26
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0010"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第3題",
+    "pages": [
+      27
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0011"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第4題",
+    "pages": [
+      27
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0012"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第5題",
+    "pages": [
+      27
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0013"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第6題",
+    "pages": [
+      27
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0014"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第21題",
+    "pages": [
+      33
+    ],
+    "labels": [
+      "第21題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0015"
+  },
+  {
+    "school": "臺大",
+    "year": 114,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "程式設計題",
+    "pages": [
+      35,
+      36
+    ],
+    "labels": [
+      "程式設計題(a)",
+      "程式設計題(b)",
+      "程式設計題(c)"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0016"
+  },
+  {
+    "school": "臺大",
+    "year": 113,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "程式設計題",
+    "pages": [
+      48,
+      49
+    ],
+    "labels": [
+      "程式設計題(a)",
+      "程式設計題(b)"
+    ],
+    "topics": [
+      "樹",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0017"
+  },
+  {
+    "school": "臺大",
+    "year": 112,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第2題",
+    "pages": [
+      51
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0018"
+  },
+  {
+    "school": "臺大",
+    "year": 112,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第25題",
+    "pages": [
+      59
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0019"
+  },
+  {
+    "school": "臺大",
+    "year": 112,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第26題",
+    "pages": [
+      60
+    ],
+    "labels": [
+      "第26題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0020"
+  },
+  {
+    "school": "臺大",
+    "year": 112,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第27題",
+    "pages": [
+      60
+    ],
+    "labels": [
+      "第27題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0021"
+  },
+  {
+    "school": "臺大",
+    "year": 112,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "第28題",
+    "pages": [
+      60
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0022"
+  },
+  {
+    "school": "臺大",
+    "year": 112,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "程式設計題",
+    "pages": [
+      61,
+      62,
+      63
+    ],
+    "labels": [
+      "程式設計題(a)",
+      "程式設計題(b)",
+      "程式設計題(c)"
+    ],
+    "topics": [
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0023"
+  },
+  {
+    "school": "臺大",
+    "year": 111,
+    "subject": "資訊科技概論",
+    "volume": "上冊",
+    "major": "程式設計題",
+    "pages": [
+      73,
+      74
+    ],
+    "labels": [
+      "程式設計題(a)",
+      "程式設計題(c)"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0024"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "第1題",
+    "pages": [
+      86
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0025"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "第2題",
+    "pages": [
+      87
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0026"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "第3題",
+    "pages": [
+      88
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0027"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "第4題",
+    "pages": [
+      88
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0028"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "第5題",
+    "pages": [
+      89
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹",
+      "雜湊"
+    ],
+    "id": "IDX-0029"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "第6題",
+    "pages": [
+      90
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0030"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "第7題",
+    "pages": [
+      84
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0031"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "第8題",
+    "pages": [
+      85
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "樹",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0032"
+  },
+  {
+    "school": "政大",
+    "year": 115,
+    "subject": "計算機概論（資管組）",
+    "volume": "上冊",
+    "major": "第7題",
+    "pages": [
+      79
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0033"
+  },
+  {
+    "school": "政大",
+    "year": 114,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "I",
+    "pages": [
+      107
+    ],
+    "labels": [
+      "I.1",
+      "I.2"
+    ],
+    "topics": [
+      "排序",
+      "堆疊／佇列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0034"
+  },
+  {
+    "school": "政大",
+    "year": 114,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "III",
+    "pages": [
+      109,
+      113
+    ],
+    "labels": [
+      "III.2",
+      "III.1",
+      "III.3"
+    ],
+    "topics": [
+      "樹",
+      "排序"
+    ],
+    "id": "IDX-0035"
+  },
+  {
+    "school": "政大",
+    "year": 114,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "II",
+    "pages": [
+      111
+    ],
+    "labels": [
+      "II.1",
+      "II.2"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0036"
+  },
+  {
+    "school": "政大",
+    "year": 114,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "第4題",
+    "pages": [
+      102
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0037"
+  },
+  {
+    "school": "政大",
+    "year": 113,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "I",
+    "pages": [
+      139,
+      141
+    ],
+    "labels": [
+      "I.1",
+      "I.2"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0038"
+  },
+  {
+    "school": "政大",
+    "year": 113,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "II",
+    "pages": [
+      141,
+      143
+    ],
+    "labels": [
+      "II.1",
+      "II.2"
+    ],
+    "topics": [
+      "樹",
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0039"
+  },
+  {
+    "school": "政大",
+    "year": 113,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "III",
+    "pages": [
+      143,
+      144,
+      145
+    ],
+    "labels": [
+      "III.1",
+      "III.2",
+      "III.3",
+      "III.4"
+    ],
+    "topics": [
+      "排序",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0040"
+  },
+  {
+    "school": "政大",
+    "year": 113,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "第3題",
+    "pages": [
+      128
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0041"
+  },
+  {
+    "school": "政大",
+    "year": 113,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "短答題7",
+    "pages": [
+      137
+    ],
+    "labels": [
+      "短答題7"
+    ],
+    "topics": [
+      "動態規劃"
+    ],
+    "id": "IDX-0042"
+  },
+  {
+    "school": "政大",
+    "year": 113,
+    "subject": "計算機概論（資管組）",
+    "volume": "上冊",
+    "major": "第4題",
+    "pages": [
+      117
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0043"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "I",
+    "pages": [
+      163,
+      164
+    ],
+    "labels": [
+      "I.1",
+      "I.2"
+    ],
+    "topics": [
+      "動態規劃",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0044"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "II",
+    "pages": [
+      165,
+      166
+    ],
+    "labels": [
+      "II.3",
+      "II.1",
+      "II.2"
+    ],
+    "topics": [
+      "樹",
+      "排序"
+    ],
+    "id": "IDX-0045"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "III",
+    "pages": [
+      167,
+      168
+    ],
+    "labels": [
+      "III.1",
+      "III.2"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0046"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "IV",
+    "pages": [
+      169,
+      170,
+      171
+    ],
+    "labels": [
+      "IV.1",
+      "IV.2",
+      "IV.3"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0047"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "問答題8",
+    "pages": [
+      162
+    ],
+    "labels": [
+      "問答題8"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0048"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "計算機概論（資管組）",
+    "volume": "上冊",
+    "major": "選擇題5",
+    "pages": [
+      149
+    ],
+    "labels": [
+      "選擇題5"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0049"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "計算機概論（資管組）",
+    "volume": "上冊",
+    "major": "選擇題6",
+    "pages": [
+      150
+    ],
+    "labels": [
+      "選擇題6"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0050"
+  },
+  {
+    "school": "政大",
+    "year": 112,
+    "subject": "計算機概論（資管組）",
+    "volume": "上冊",
+    "major": "選擇題7",
+    "pages": [
+      150
+    ],
+    "labels": [
+      "選擇題7"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0051"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "I",
+    "pages": [
+      191,
+      192,
+      193
+    ],
+    "labels": [
+      "I.a",
+      "I.b",
+      "I.c"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0052"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "II",
+    "pages": [
+      194,
+      195
+    ],
+    "labels": [
+      "II.a",
+      "II.b",
+      "II.c"
+    ],
+    "topics": [
+      "樹",
+      "排序"
+    ],
+    "id": "IDX-0053"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "資料結構（科技組）",
+    "volume": "上冊",
+    "major": "III",
+    "pages": [
+      196
+    ],
+    "labels": [
+      "III.a",
+      "III.b"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0054"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "是非題6",
+    "pages": [
+      182
+    ],
+    "labels": [
+      "是非題6"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0055"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "是非題10",
+    "pages": [
+      183
+    ],
+    "labels": [
+      "是非題10"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0056"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "計算機概論（科技組）",
+    "volume": "上冊",
+    "major": "問答題8",
+    "pages": [
+      188
+    ],
+    "labels": [
+      "問答題8"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0057"
+  },
+  {
+    "school": "政大",
+    "year": 111,
+    "subject": "計算機概論（資管組）",
+    "volume": "上冊",
+    "major": "第10題",
+    "pages": [
+      175
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0058"
+  },
+  {
+    "school": "陽交大",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第4題",
+    "pages": [
+      201,
+      202
+    ],
+    "labels": [
+      "第4(a)題",
+      "第4(c)題",
+      "第4(d)題",
+      "第4(e)題"
+    ],
+    "topics": [
+      "圖論",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0059"
+  },
+  {
+    "school": "陽交大",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第5題",
+    "pages": [
+      203,
+      204
+    ],
+    "labels": [
+      "第5(b)題",
+      "第5(c)題"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "雜湊",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0060"
+  },
+  {
+    "school": "陽交大",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第7題",
+    "pages": [
+      205,
+      206
+    ],
+    "labels": [
+      "第7(a)題",
+      "第7(c)題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0061"
+  },
+  {
+    "school": "陽交大",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第8題",
+    "pages": [
+      207
+    ],
+    "labels": [
+      "第8(a)題",
+      "第8(b)題"
+    ],
+    "topics": [
+      "排序",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0062"
+  },
+  {
+    "school": "陽交大",
+    "year": 114,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第12題",
+    "pages": [
+      215
+    ],
+    "labels": [
+      "第12(a)題",
+      "第12(b)題"
+    ],
+    "topics": [
+      "動態規劃",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0063"
+  },
+  {
+    "school": "陽交大",
+    "year": 114,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第13題",
+    "pages": [
+      216,
+      217
+    ],
+    "labels": [
+      "第13(a)題",
+      "第13(b)題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0064"
+  },
+  {
+    "school": "陽交大",
+    "year": 114,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第14題",
+    "pages": [
+      218
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0065"
+  },
+  {
+    "school": "陽交大",
+    "year": 113,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第5題",
+    "pages": [
+      222
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "位元運算"
+    ],
+    "id": "IDX-0066"
+  },
+  {
+    "school": "陽交大",
+    "year": 113,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第11題",
+    "pages": [
+      225
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "圖論",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0067"
+  },
+  {
+    "school": "陽交大",
+    "year": 113,
+    "subject": "資訊科技與管理",
+    "volume": "上冊",
+    "major": "第12題",
+    "pages": [
+      226
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "圖論",
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0068"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-1",
+    "pages": [
+      238
+    ],
+    "labels": [
+      "A-1-1"
+    ],
+    "topics": [
+      "抽象資料型態"
+    ],
+    "id": "IDX-0069"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-2",
+    "pages": [
+      238
+    ],
+    "labels": [
+      "A-1-2"
+    ],
+    "topics": [
+      "樹",
+      "鏈結串列／陣列",
+      "抽象資料型態"
+    ],
+    "id": "IDX-0070"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-3",
+    "pages": [
+      239
+    ],
+    "labels": [
+      "A-1-3"
+    ],
+    "topics": [
+      "樹",
+      "抽象資料型態"
+    ],
+    "id": "IDX-0071"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-4",
+    "pages": [
+      239
+    ],
+    "labels": [
+      "A-1-4"
+    ],
+    "topics": [
+      "抽象資料型態"
+    ],
+    "id": "IDX-0072"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-5",
+    "pages": [
+      240
+    ],
+    "labels": [
+      "A-1-5"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0073"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-6",
+    "pages": [
+      240
+    ],
+    "labels": [
+      "A-1-6"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0074"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-7",
+    "pages": [
+      241
+    ],
+    "labels": [
+      "A-1-7"
+    ],
+    "topics": [
+      "樹",
+      "複雜度／遞迴式",
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0075"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-8",
+    "pages": [
+      241
+    ],
+    "labels": [
+      "A-1-8"
+    ],
+    "topics": [
+      "樹",
+      "遞迴／分治",
+      "抽象資料型態"
+    ],
+    "id": "IDX-0076"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-10",
+    "pages": [
+      242
+    ],
+    "labels": [
+      "A-1-10"
+    ],
+    "topics": [
+      "雜湊",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0077"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-9",
+    "pages": [
+      242
+    ],
+    "labels": [
+      "A-1-9"
+    ],
+    "topics": [
+      "複雜度／遞迴式",
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0078"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1",
+    "pages": [
+      242
+    ],
+    "labels": [
+      "B-1"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0079"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2",
+    "pages": [
+      243
+    ],
+    "labels": [
+      "B-2"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0080"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3",
+    "pages": [
+      244
+    ],
+    "labels": [
+      "B-3"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0081"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-4",
+    "pages": [
+      245
+    ],
+    "labels": [
+      "B-4"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0082"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-5",
+    "pages": [
+      245
+    ],
+    "labels": [
+      "B-5"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0083"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-6",
+    "pages": [
+      246
+    ],
+    "labels": [
+      "B-6"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0084"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-7",
+    "pages": [
+      246
+    ],
+    "labels": [
+      "B-7"
+    ],
+    "topics": [
+      "樹",
+      "雜湊"
+    ],
+    "id": "IDX-0085"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-8",
+    "pages": [
+      247
+    ],
+    "labels": [
+      "B-8"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0086"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-9",
+    "pages": [
+      247
+    ],
+    "labels": [
+      "B-9"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0087"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-10",
+    "pages": [
+      248
+    ],
+    "labels": [
+      "B-10"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0088"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-11",
+    "pages": [
+      248
+    ],
+    "labels": [
+      "B-11"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0089"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-12",
+    "pages": [
+      248
+    ],
+    "labels": [
+      "B-12"
+    ],
+    "topics": [
+      "排序",
+      "圖論"
+    ],
+    "id": "IDX-0090"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-13",
+    "pages": [
+      249
+    ],
+    "labels": [
+      "B-13"
+    ],
+    "topics": [
+      "圖論",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0091"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-1-7",
+    "pages": [
+      230
+    ],
+    "labels": [
+      "A-1-7"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0092"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "B-4",
+    "pages": [
+      233
+    ],
+    "labels": [
+      "B-4"
+    ],
+    "topics": [
+      "雜湊",
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0093"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "B-6",
+    "pages": [
+      234
+    ],
+    "labels": [
+      "B-6"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0094"
+  },
+  {
+    "school": "成大",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "B-7",
+    "pages": [
+      234
+    ],
+    "labels": [
+      "B-7"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0095"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-1",
+    "pages": [
+      263
+    ],
+    "labels": [
+      "A-1-1"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0096"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-2",
+    "pages": [
+      263
+    ],
+    "labels": [
+      "A-1-2"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0097"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-3",
+    "pages": [
+      264
+    ],
+    "labels": [
+      "A-1-3"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0098"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-4",
+    "pages": [
+      264
+    ],
+    "labels": [
+      "A-1-4"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0099"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-5",
+    "pages": [
+      264
+    ],
+    "labels": [
+      "A-1-5"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0100"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-6",
+    "pages": [
+      265
+    ],
+    "labels": [
+      "A-1-6"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0101"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-7",
+    "pages": [
+      265
+    ],
+    "labels": [
+      "A-1-7"
+    ],
+    "topics": [
+      "圖論",
+      "複雜度／遞迴式",
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0102"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-8",
+    "pages": [
+      266
+    ],
+    "labels": [
+      "A-1-8"
+    ],
+    "topics": [
+      "圖論",
+      "堆疊／佇列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0103"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-9",
+    "pages": [
+      266
+    ],
+    "labels": [
+      "A-1-9"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0104"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1-10",
+    "pages": [
+      267
+    ],
+    "labels": [
+      "A-1-10"
+    ],
+    "topics": [
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0105"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-2",
+    "pages": [
+      267
+    ],
+    "labels": [
+      "A-2"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0106"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1",
+    "pages": [
+      268
+    ],
+    "labels": [
+      "B-1"
+    ],
+    "topics": [
+      "圖論",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0107"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1-1",
+    "pages": [
+      268
+    ],
+    "labels": [
+      "B-1-1"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0108"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1-2",
+    "pages": [
+      268
+    ],
+    "labels": [
+      "B-1-2"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0109"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1-3",
+    "pages": [
+      269
+    ],
+    "labels": [
+      "B-1-3"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0110"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2",
+    "pages": [
+      269
+    ],
+    "labels": [
+      "B-2"
+    ],
+    "topics": [
+      "排序",
+      "圖論"
+    ],
+    "id": "IDX-0111"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2-1",
+    "pages": [
+      270
+    ],
+    "labels": [
+      "B-2-1"
+    ],
+    "topics": [
+      "排序",
+      "圖論"
+    ],
+    "id": "IDX-0112"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2-2",
+    "pages": [
+      270
+    ],
+    "labels": [
+      "B-2-2"
+    ],
+    "topics": [
+      "排序",
+      "圖論",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0113"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2-3",
+    "pages": [
+      271
+    ],
+    "labels": [
+      "B-2-3"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0114"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3",
+    "pages": [
+      271
+    ],
+    "labels": [
+      "B-3"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0115"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3-1",
+    "pages": [
+      271
+    ],
+    "labels": [
+      "B-3-1"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0116"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3-2",
+    "pages": [
+      271
+    ],
+    "labels": [
+      "B-3-2"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0117"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3-3",
+    "pages": [
+      272
+    ],
+    "labels": [
+      "B-3-3"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0118"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-4-1",
+    "pages": [
+      272
+    ],
+    "labels": [
+      "B-4-1"
+    ],
+    "topics": [
+      "樹",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0119"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-4-2",
+    "pages": [
+      272
+    ],
+    "labels": [
+      "B-4-2"
+    ],
+    "topics": [
+      "樹",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0120"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-5",
+    "pages": [
+      273
+    ],
+    "labels": [
+      "B-5"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0121"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-6",
+    "pages": [
+      274
+    ],
+    "labels": [
+      "B-6"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0122"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-I-3",
+    "pages": [
+      251
+    ],
+    "labels": [
+      "A-I-3"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0123"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-I-9",
+    "pages": [
+      253
+    ],
+    "labels": [
+      "A-I-9"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0124"
+  },
+  {
+    "school": "成大",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-II-1",
+    "pages": [
+      254
+    ],
+    "labels": [
+      "A-II-1"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0125"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1",
+    "pages": [
+      284
+    ],
+    "labels": [
+      "A-1"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0126"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-2",
+    "pages": [
+      285
+    ],
+    "labels": [
+      "A-2"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0127"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-3",
+    "pages": [
+      287
+    ],
+    "labels": [
+      "A-3"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0128"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-4",
+    "pages": [
+      289
+    ],
+    "labels": [
+      "A-4"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0129"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1",
+    "pages": [
+      290
+    ],
+    "labels": [
+      "B-1"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0130"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2",
+    "pages": [
+      290
+    ],
+    "labels": [
+      "B-2"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0131"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3",
+    "pages": [
+      291
+    ],
+    "labels": [
+      "B-3"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0132"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-4",
+    "pages": [
+      292
+    ],
+    "labels": [
+      "B-4"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0133"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-5",
+    "pages": [
+      292
+    ],
+    "labels": [
+      "B-5"
+    ],
+    "topics": [
+      "樹",
+      "鏈結串列／陣列",
+      "搜尋／字串"
+    ],
+    "id": "IDX-0134"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-1",
+    "pages": [
+      279
+    ],
+    "labels": [
+      "A-1(10)"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0135"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "B-2",
+    "pages": [
+      281
+    ],
+    "labels": [
+      "B-2"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0136"
+  },
+  {
+    "school": "成大",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "B-8",
+    "pages": [
+      283
+    ],
+    "labels": [
+      "B-8"
+    ],
+    "topics": [
+      "樹",
+      "排序"
+    ],
+    "id": "IDX-0137"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-I-1",
+    "pages": [
+      307
+    ],
+    "labels": [
+      "A-I-1"
+    ],
+    "topics": [
+      "圖論",
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0138"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-I-2",
+    "pages": [
+      307
+    ],
+    "labels": [
+      "A-I-2"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0139"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-I-3",
+    "pages": [
+      307
+    ],
+    "labels": [
+      "A-I-3"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0140"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-I-4",
+    "pages": [
+      308
+    ],
+    "labels": [
+      "A-I-4"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列",
+      "雜湊",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0141"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-II-5",
+    "pages": [
+      308
+    ],
+    "labels": [
+      "A-II-5(1)",
+      "A-II-5(2)"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0142"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-II-6",
+    "pages": [
+      309
+    ],
+    "labels": [
+      "A-II-6"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0143"
+  },
+  {
+    "school": "成大",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-II-7",
+    "pages": [
+      310,
+      311
+    ],
+    "labels": [
+      "A-II-7(1)",
+      "A-II-7(2)",
+      "A-II-7(3)",
+      "A-II-7(4)"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "搜尋／字串",
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0144"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-1",
+    "pages": [
+      327
+    ],
+    "labels": [
+      "A-1"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0145"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-2",
+    "pages": [
+      328,
+      329
+    ],
+    "labels": [
+      "A-2(a)",
+      "A-2(b)",
+      "A-2(c)",
+      "A-2(d)",
+      "A-2(e)"
+    ],
+    "topics": [
+      "樹",
+      "排序",
+      "堆疊／佇列",
+      "雜湊",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0146"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-3",
+    "pages": [
+      329
+    ],
+    "labels": [
+      "A-3"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0147"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-4",
+    "pages": [
+      330,
+      331,
+      332
+    ],
+    "labels": [
+      "A-4(a)",
+      "A-4(b)",
+      "A-4(c)"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0148"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "A-5",
+    "pages": [
+      332,
+      333
+    ],
+    "labels": [
+      "A-5(a)",
+      "A-5(b)"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0149"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-1",
+    "pages": [
+      333
+    ],
+    "labels": [
+      "B-1(i)",
+      "B-1(ii)"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0150"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-2",
+    "pages": [
+      334,
+      335,
+      337
+    ],
+    "labels": [
+      "B-2(iii)",
+      "B-2(iv)",
+      "B-2(v)"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0151"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-3",
+    "pages": [
+      338,
+      339
+    ],
+    "labels": [
+      "B-3(i)",
+      "B-3(ii)"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0152"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "上冊",
+    "major": "B-4",
+    "pages": [
+      340
+    ],
+    "labels": [
+      "B-4(i)",
+      "B-4(ii)"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0153"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-1",
+    "pages": [
+      319
+    ],
+    "labels": [
+      "A-1(7)"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0154"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "A-2",
+    "pages": [
+      321
+    ],
+    "labels": [
+      "A-2(3)"
+    ],
+    "topics": [
+      "搜尋／字串",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0155"
+  },
+  {
+    "school": "成大",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "上冊",
+    "major": "B-2",
+    "pages": [
+      324
+    ],
+    "labels": [
+      "B-2(1)"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0156"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      29,
+      30
+    ],
+    "labels": [
+      "第1(a)題",
+      "第1(b)題",
+      "第1(c)題"
+    ],
+    "topics": [
+      "鏈結串列／陣列",
+      "雜湊"
+    ],
+    "id": "IDX-0157"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      31
+    ],
+    "labels": [
+      "第2(a)題",
+      "第2(b)題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0158"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      32,
+      33
+    ],
+    "labels": [
+      "第3(a)題",
+      "第3(b)題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0159"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      34
+    ],
+    "labels": [
+      "第4(a)題",
+      "第4(b)題"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0160"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      35
+    ],
+    "labels": [
+      "第5(a)題",
+      "第5(b)題"
+    ],
+    "topics": [
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0161"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      36
+    ],
+    "labels": [
+      "第6(a)題",
+      "第6(b)題"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0162"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      37,
+      38
+    ],
+    "labels": [
+      "第7(a)題",
+      "第7(b)題",
+      "第7(c)題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0163"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      39,
+      40
+    ],
+    "labels": [
+      "第8(a)題",
+      "第8(b)題",
+      "第8(c)題"
+    ],
+    "topics": [
+      "抽象資料型態"
+    ],
+    "id": "IDX-0164"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      40
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "樹",
+      "排序",
+      "雜湊"
+    ],
+    "id": "IDX-0165"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      18
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0166"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      20
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0167"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第28題",
+    "pages": [
+      24
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0168"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "問答1",
+    "pages": [
+      26
+    ],
+    "labels": [
+      "問答1(1)",
+      "問答1(2)"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0169"
+  },
+  {
+    "school": "中央",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "問答2",
+    "pages": [
+      27
+    ],
+    "labels": [
+      "問答2"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0170"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      60
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "鏈結串列／陣列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0171"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      61,
+      62
+    ],
+    "labels": [
+      "第2(a)題",
+      "第2(b)題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0172"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      63,
+      64
+    ],
+    "labels": [
+      "第3(a)題",
+      "第3(b)題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0173"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      64,
+      65,
+      66
+    ],
+    "labels": [
+      "第4(a)題",
+      "第4(b)題",
+      "第4(c)題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0174"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      66
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0175"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      67
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0176"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      67,
+      68
+    ],
+    "labels": [
+      "第7(a)題",
+      "第7(b)題"
+    ],
+    "topics": [
+      "樹",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0177"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      68
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0178"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      69
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0179"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      45
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0180"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      47
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0181"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第25題",
+    "pages": [
+      52
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0182"
+  },
+  {
+    "school": "中央",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第27題",
+    "pages": [
+      54
+    ],
+    "labels": [
+      "第27題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0183"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      78
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0184"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      78
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0185"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      79
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0186"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      80
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0187"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      81
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0188"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      82
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0189"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      83
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0190"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      84
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0191"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      84
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0192"
+  },
+  {
+    "school": "中央",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      85
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0193"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      95,
+      96
+    ],
+    "labels": [
+      "第1(a)題",
+      "第1(b)題",
+      "第1(c)題"
+    ],
+    "topics": [
+      "樹",
+      "排序",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0194"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      97
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0195"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      98
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0196"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      98
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0197"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      99
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0198"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      99
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0199"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      100
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0200"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      102
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0201"
+  },
+  {
+    "school": "中央",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      92
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0202"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      113
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0203"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      114
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0204"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      114
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0205"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      115
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0206"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      116
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0207"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      116
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0208"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      117
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "搜尋／字串"
+    ],
+    "id": "IDX-0209"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      120
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "排序",
+      "搜尋／字串"
+    ],
+    "id": "IDX-0210"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      121
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0211"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      122
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "雜湊",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0212"
+  },
+  {
+    "school": "中央",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      103
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0213"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      133
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0214"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      133
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0215"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      134
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0216"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      134
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "樹",
+      "圖論",
+      "貪婪法"
+    ],
+    "id": "IDX-0217"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      134
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0218"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      135
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0219"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      135
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0220"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      136
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0221"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      136
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0222"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      137
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0223"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第11題",
+    "pages": [
+      138
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0224"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第12題",
+    "pages": [
+      139
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列",
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0225"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      139
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0226"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      140
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0227"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      140
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0228"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      142
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0229"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第17題",
+    "pages": [
+      143
+    ],
+    "labels": [
+      "第17題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0230"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第18題",
+    "pages": [
+      143
+    ],
+    "labels": [
+      "第18題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0231"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      143
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0232"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      144
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0233"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第21題",
+    "pages": [
+      144
+    ],
+    "labels": [
+      "第21題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0234"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      145
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0235"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第23題",
+    "pages": [
+      145
+    ],
+    "labels": [
+      "第23題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0236"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第24題",
+    "pages": [
+      146
+    ],
+    "labels": [
+      "第24題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0237"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第25題",
+    "pages": [
+      147
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0238"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第26題",
+    "pages": [
+      147
+    ],
+    "labels": [
+      "第26題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0239"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第27題",
+    "pages": [
+      148
+    ],
+    "labels": [
+      "第27題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0240"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第28題",
+    "pages": [
+      148
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0241"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第29題",
+    "pages": [
+      149
+    ],
+    "labels": [
+      "第29題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0242"
+  },
+  {
+    "school": "中山",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      126
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0243"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      159
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0244"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      159
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0245"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      160
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0246"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      160
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0247"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      161
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0248"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      161
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0249"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      162
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0250"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      163
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0251"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      164
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0252"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      164
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0253"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第11題",
+    "pages": [
+      165
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0254"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第12題",
+    "pages": [
+      165
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "排序",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0255"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      166
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0256"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      167
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0257"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      167
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0258"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      168
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0259"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第17題",
+    "pages": [
+      168
+    ],
+    "labels": [
+      "第17題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0260"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第18題",
+    "pages": [
+      169
+    ],
+    "labels": [
+      "第18題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0261"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      169
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0262"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      170
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0263"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第21題",
+    "pages": [
+      170
+    ],
+    "labels": [
+      "第21題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0264"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      171
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0265"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第23題",
+    "pages": [
+      171
+    ],
+    "labels": [
+      "第23題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列",
+      "抽象資料型態"
+    ],
+    "id": "IDX-0266"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第24題",
+    "pages": [
+      172
+    ],
+    "labels": [
+      "第24題"
+    ],
+    "topics": [
+      "圖論",
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0267"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第25題",
+    "pages": [
+      173
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0268"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第26題",
+    "pages": [
+      174
+    ],
+    "labels": [
+      "第26題"
+    ],
+    "topics": [
+      "圖論",
+      "計算理論"
+    ],
+    "id": "IDX-0269"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第27題",
+    "pages": [
+      174
+    ],
+    "labels": [
+      "第27題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0270"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第28題",
+    "pages": [
+      175
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0271"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "填空1",
+    "pages": [
+      155
+    ],
+    "labels": [
+      "填空1"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0272"
+  },
+  {
+    "school": "中山",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "問答2",
+    "pages": [
+      158
+    ],
+    "labels": [
+      "問答2"
+    ],
+    "topics": [
+      "樹",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0273"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      185
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0274"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      185
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0275"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      186
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0276"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      186
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0277"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      187
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "貪婪法"
+    ],
+    "id": "IDX-0278"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      187
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0279"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      187
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0280"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第11題",
+    "pages": [
+      188
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "樹",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0281"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      188
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0282"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      189
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0283"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      189
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0284"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第12題",
+    "pages": [
+      190
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "排序",
+      "鏈結串列／陣列",
+      "堆積／優先佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0285"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      190
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "圖論",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0286"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      190
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0287"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      191
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0288"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      191
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0289"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第17題",
+    "pages": [
+      192
+    ],
+    "labels": [
+      "第17題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0290"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第18題",
+    "pages": [
+      192
+    ],
+    "labels": [
+      "第18題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0291"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      193
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0292"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      194
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "排序",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0293"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第21題",
+    "pages": [
+      194
+    ],
+    "labels": [
+      "第21題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0294"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      195
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "排序",
+      "動態規劃",
+      "圖論",
+      "遞迴／分治",
+      "複雜度／遞迴式",
+      "計算理論"
+    ],
+    "id": "IDX-0295"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第23題",
+    "pages": [
+      196
+    ],
+    "labels": [
+      "第23題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0296"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第24題",
+    "pages": [
+      196
+    ],
+    "labels": [
+      "第24題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0297"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第25題",
+    "pages": [
+      197
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0298"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      177
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0299"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      178
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0300"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      178
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0301"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      179
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0302"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      180
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0303"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      182
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0304"
+  },
+  {
+    "school": "中山",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第17題",
+    "pages": [
+      183
+    ],
+    "labels": [
+      "第17題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0305"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      212
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0306"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      212
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0307"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      213
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "抽象資料型態"
+    ],
+    "id": "IDX-0308"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      214
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0309"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      214
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0310"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      214
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0311"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      215
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0312"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      215
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0313"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      215
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "雜湊",
+      "搜尋／字串"
+    ],
+    "id": "IDX-0314"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      216
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0315"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第11題",
+    "pages": [
+      216
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0316"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第12題",
+    "pages": [
+      216
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0317"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      217
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "貪婪法",
+      "計算理論"
+    ],
+    "id": "IDX-0318"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      217
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "排序",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0319"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      218
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0320"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      218
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0321"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第17題",
+    "pages": [
+      218
+    ],
+    "labels": [
+      "第17題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0322"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第18題",
+    "pages": [
+      219
+    ],
+    "labels": [
+      "第18題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0323"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      219
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0324"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      219
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0325"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第21題",
+    "pages": [
+      220
+    ],
+    "labels": [
+      "第21題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0326"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      220
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0327"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第23題",
+    "pages": [
+      220
+    ],
+    "labels": [
+      "第23題"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "鏈結串列／陣列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0328"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第24題",
+    "pages": [
+      221
+    ],
+    "labels": [
+      "第24題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0329"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第25題",
+    "pages": [
+      221
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0330"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第26題",
+    "pages": [
+      222
+    ],
+    "labels": [
+      "第26題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0331"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第27題",
+    "pages": [
+      223
+    ],
+    "labels": [
+      "第27題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0332"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第28題",
+    "pages": [
+      224
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0333"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第29題",
+    "pages": [
+      224
+    ],
+    "labels": [
+      "第29題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0334"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第30題",
+    "pages": [
+      225
+    ],
+    "labels": [
+      "第30題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0335"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第31題",
+    "pages": [
+      225
+    ],
+    "labels": [
+      "第31題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0336"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第32題",
+    "pages": [
+      226
+    ],
+    "labels": [
+      "第32題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0337"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第33題",
+    "pages": [
+      227
+    ],
+    "labels": [
+      "第33題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0338"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第34題",
+    "pages": [
+      228
+    ],
+    "labels": [
+      "第34題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0339"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第35題",
+    "pages": [
+      228
+    ],
+    "labels": [
+      "第35題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0340"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第36題",
+    "pages": [
+      229
+    ],
+    "labels": [
+      "第36題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0341"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第37題",
+    "pages": [
+      230
+    ],
+    "labels": [
+      "第37題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0342"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第38題",
+    "pages": [
+      230
+    ],
+    "labels": [
+      "第38題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0343"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第39題",
+    "pages": [
+      231
+    ],
+    "labels": [
+      "第39題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0344"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第40題",
+    "pages": [
+      232
+    ],
+    "labels": [
+      "第40題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0345"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      198
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "雜湊"
+    ],
+    "id": "IDX-0346"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      200
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0347"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      203
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0348"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      206
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0349"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第28題",
+    "pages": [
+      210
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0350"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第29題",
+    "pages": [
+      210
+    ],
+    "labels": [
+      "第29題"
+    ],
+    "topics": [
+      "樹",
+      "排序",
+      "遞迴／分治",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0351"
+  },
+  {
+    "school": "中山",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第30題",
+    "pages": [
+      211
+    ],
+    "labels": [
+      "第30題"
+    ],
+    "topics": [
+      "堆疊／佇列",
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0352"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      246
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "圖論",
+      "堆疊／佇列",
+      "鏈結串列／陣列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0353"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      246
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0354"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      247
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0355"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      247
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0356"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      248
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0357"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      248
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0358"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      249
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0359"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      250
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0360"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      250
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0361"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      250
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0362"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第11題",
+    "pages": [
+      251
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0363"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第12題",
+    "pages": [
+      251
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0364"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      252
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0365"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      252
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0366"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      252
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "動態規劃",
+      "貪婪法",
+      "計算理論"
+    ],
+    "id": "IDX-0367"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      253
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0368"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第17題",
+    "pages": [
+      253
+    ],
+    "labels": [
+      "第17題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0369"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第18題",
+    "pages": [
+      253
+    ],
+    "labels": [
+      "第18題"
+    ],
+    "topics": [
+      "貪婪法"
+    ],
+    "id": "IDX-0370"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      254
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "圖論",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0371"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      254
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "貪婪法"
+    ],
+    "id": "IDX-0372"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第21題",
+    "pages": [
+      254
+    ],
+    "labels": [
+      "第21題"
+    ],
+    "topics": [
+      "其他資結觀念（待細分）"
+    ],
+    "id": "IDX-0373"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "問答題1",
+    "pages": [
+      255,
+      256
+    ],
+    "labels": [
+      "問答題1(a)",
+      "問答題1(b)"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0374"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      255
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "動態規劃",
+      "貪婪法"
+    ],
+    "id": "IDX-0375"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "問答題2",
+    "pages": [
+      257
+    ],
+    "labels": [
+      "問答題2"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0376"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      233
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0377"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      235
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0378"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      236
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0379"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      238
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0380"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      238
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0381"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      239
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0382"
+  },
+  {
+    "school": "中山",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第26題",
+    "pages": [
+      243
+    ],
+    "labels": [
+      "第26題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0383"
+  },
+  {
+    "school": "中興",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      267
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "動態規劃"
+    ],
+    "id": "IDX-0384"
+  },
+  {
+    "school": "中興",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      275
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹",
+      "遞迴／分治"
+    ],
+    "id": "IDX-0385"
+  },
+  {
+    "school": "中興",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      276
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0386"
+  },
+  {
+    "school": "中興",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      283
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0387"
+  },
+  {
+    "school": "中興",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      287
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0388"
+  },
+  {
+    "school": "中興",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      288
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0389"
+  },
+  {
+    "school": "中興",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      299,
+      301
+    ],
+    "labels": [
+      "第6(2)題",
+      "第6(1)題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0390"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      304
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0391"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      304
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0392"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      305
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0393"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      306
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0394"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      307
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0395"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      310
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0396"
+  },
+  {
+    "school": "中興",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第16題",
+    "pages": [
+      313
+    ],
+    "labels": [
+      "第16題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0397"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      330
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0398"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      331
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0399"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      332
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0400"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      333
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0401"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      333,
+      334
+    ],
+    "labels": [
+      "第5(a)題",
+      "第5(b)題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0402"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      334
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹",
+      "圖論"
+    ],
+    "id": "IDX-0403"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      336
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "動態規劃",
+      "圖論"
+    ],
+    "id": "IDX-0404"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      319
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0405"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      319
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "搜尋／字串",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0406"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      319
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0407"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      322
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0408"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第20題",
+    "pages": [
+      322
+    ],
+    "labels": [
+      "第20題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0409"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      323
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0410"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第28題",
+    "pages": [
+      325
+    ],
+    "labels": [
+      "第28題"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0411"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第29題",
+    "pages": [
+      325
+    ],
+    "labels": [
+      "第29題"
+    ],
+    "topics": [
+      "動態規劃",
+      "計算理論"
+    ],
+    "id": "IDX-0412"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第30題",
+    "pages": [
+      325
+    ],
+    "labels": [
+      "第30題"
+    ],
+    "topics": [
+      "圖論",
+      "計算理論"
+    ],
+    "id": "IDX-0413"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第2題",
+    "pages": [
+      326
+    ],
+    "labels": [
+      "SectionII第2題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0414"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第3題",
+    "pages": [
+      327
+    ],
+    "labels": [
+      "SectionII第3題"
+    ],
+    "topics": [
+      "遞迴／分治"
+    ],
+    "id": "IDX-0415"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第4題",
+    "pages": [
+      327
+    ],
+    "labels": [
+      "SectionII第4題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0416"
+  },
+  {
+    "school": "中正",
+    "year": 115,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第5題",
+    "pages": [
+      328
+    ],
+    "labels": [
+      "SectionII第5題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0417"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      346
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "位元運算",
+      "抽象資料型態"
+    ],
+    "id": "IDX-0418"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      346
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "位元運算",
+      "抽象資料型態"
+    ],
+    "id": "IDX-0419"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      347
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0420"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      348
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0421"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      349
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0422"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      350,
+      351
+    ],
+    "labels": [
+      "第6(A)(B)(C)題",
+      "第6(D)題"
+    ],
+    "topics": [
+      "圖論",
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0423"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      340,
+      341
+    ],
+    "labels": [
+      "第4(a)題",
+      "第4(b)題",
+      "第4(c)題",
+      "第4(d)題"
+    ],
+    "topics": [
+      "樹",
+      "堆疊／佇列",
+      "鏈結串列／陣列",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0424"
+  },
+  {
+    "school": "中正",
+    "year": 114,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      341
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "遞迴／分治",
+      "貪婪法",
+      "計算理論"
+    ],
+    "id": "IDX-0425"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      368
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0426"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      369
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0427"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      369
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0428"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      370
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "圖論",
+      "堆疊／佇列",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0429"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      371
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0430"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      372
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0431"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      374
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0432"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第13題",
+    "pages": [
+      356
+    ],
+    "labels": [
+      "第13題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0433"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第14題",
+    "pages": [
+      356
+    ],
+    "labels": [
+      "第14題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0434"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      357
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0435"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第22題",
+    "pages": [
+      360
+    ],
+    "labels": [
+      "第22題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0436"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第23題",
+    "pages": [
+      360
+    ],
+    "labels": [
+      "第23題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0437"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第24題",
+    "pages": [
+      361
+    ],
+    "labels": [
+      "第24題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0438"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第25題",
+    "pages": [
+      361
+    ],
+    "labels": [
+      "第25題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0439"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第26題",
+    "pages": [
+      362
+    ],
+    "labels": [
+      "第26題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0440"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第33題",
+    "pages": [
+      364
+    ],
+    "labels": [
+      "第33題"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0441"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第34題",
+    "pages": [
+      365
+    ],
+    "labels": [
+      "第34題"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0442"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第35題",
+    "pages": [
+      365
+    ],
+    "labels": [
+      "第35題"
+    ],
+    "topics": [
+      "計算理論"
+    ],
+    "id": "IDX-0443"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第3題",
+    "pages": [
+      366
+    ],
+    "labels": [
+      "SectionII第3題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0444"
+  },
+  {
+    "school": "中正",
+    "year": 113,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第4題",
+    "pages": [
+      366
+    ],
+    "labels": [
+      "SectionII第4題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0445"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      383
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0446"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      384
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0447"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      384
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0448"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      385
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0449"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      386
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "樹",
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0450"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      386
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0451"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      388
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0452"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第8題",
+    "pages": [
+      389
+    ],
+    "labels": [
+      "第8題"
+    ],
+    "topics": [
+      "圖論"
+    ],
+    "id": "IDX-0453"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第9題",
+    "pages": [
+      389
+    ],
+    "labels": [
+      "第9題"
+    ],
+    "topics": [
+      "搜尋／字串"
+    ],
+    "id": "IDX-0454"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第10題",
+    "pages": [
+      390
+    ],
+    "labels": [
+      "第10題"
+    ],
+    "topics": [
+      "堆積／優先佇列"
+    ],
+    "id": "IDX-0455"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第11題",
+    "pages": [
+      392
+    ],
+    "labels": [
+      "第11題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0456"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第12題",
+    "pages": [
+      392
+    ],
+    "labels": [
+      "第12題"
+    ],
+    "topics": [
+      "動態規劃"
+    ],
+    "id": "IDX-0457"
+  },
+  {
+    "school": "中正",
+    "year": 112,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第4題",
+    "pages": [
+      381
+    ],
+    "labels": [
+      "SectionII第4(a)題",
+      "SectionII第4(b)題"
+    ],
+    "topics": [
+      "排序"
+    ],
+    "id": "IDX-0458"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第1題",
+    "pages": [
+      406
+    ],
+    "labels": [
+      "第1題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0459"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第2題",
+    "pages": [
+      406
+    ],
+    "labels": [
+      "第2題"
+    ],
+    "topics": [
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0460"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第3題",
+    "pages": [
+      407
+    ],
+    "labels": [
+      "第3題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0461"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第4題",
+    "pages": [
+      408
+    ],
+    "labels": [
+      "第4題"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0462"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第5題",
+    "pages": [
+      409
+    ],
+    "labels": [
+      "第5題"
+    ],
+    "topics": [
+      "堆疊／佇列"
+    ],
+    "id": "IDX-0463"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      410
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "鏈結串列／陣列"
+    ],
+    "id": "IDX-0464"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "資料結構",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      412
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0465"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第6題",
+    "pages": [
+      395
+    ],
+    "labels": [
+      "第6題"
+    ],
+    "topics": [
+      "位元運算"
+    ],
+    "id": "IDX-0466"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第7題",
+    "pages": [
+      396
+    ],
+    "labels": [
+      "第7題"
+    ],
+    "topics": [
+      "稀疏矩陣／多項式／集合"
+    ],
+    "id": "IDX-0467"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第15題",
+    "pages": [
+      398
+    ],
+    "labels": [
+      "第15題"
+    ],
+    "topics": [
+      "排序",
+      "複雜度／遞迴式"
+    ],
+    "id": "IDX-0468"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第19題",
+    "pages": [
+      400
+    ],
+    "labels": [
+      "第19題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0469"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "第24題",
+    "pages": [
+      402
+    ],
+    "labels": [
+      "第24題"
+    ],
+    "topics": [
+      "圖論",
+      "計算理論"
+    ],
+    "id": "IDX-0470"
+  },
+  {
+    "school": "中正",
+    "year": 111,
+    "subject": "計算機概論",
+    "volume": "下冊",
+    "major": "SectionII第4題",
+    "pages": [
+      403
+    ],
+    "labels": [
+      "SectionII第4題"
+    ],
+    "topics": [
+      "樹"
+    ],
+    "id": "IDX-0471"
+  }
+]
