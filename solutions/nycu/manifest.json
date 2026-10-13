@@ -1,0 +1,261 @@
+[
+  {
+    "id": "IDX-0059",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "major": "第4題",
+    "index_pdf_pages": [
+      201,
+      202
+    ],
+    "pdf_pages": [
+      201,
+      202
+    ],
+    "indexed_subquestions": [
+      "第4(a)題",
+      "第4(c)題",
+      "第4(d)題",
+      "第4(e)題"
+    ],
+    "covered_subquestions": [
+      "第4(a)題",
+      "第4(b)題",
+      "第4(c)題",
+      "第4(d)題",
+      "第4(e)題"
+    ],
+    "title": "邊數限制DP與 Floyd-Warshall 全點對最短路徑",
+    "source": "IDX-0059.cpp",
+    "explanation": "IDX-0059.md",
+    "result": "results/IDX-0059.txt",
+    "time_complexity": "f：O(rn³)，取r=n−1後Θ(n⁴)。g／Floyd：Θ(n³)。範例輸出兩張矩陣另為Θ(n²)。"
+  },
+  {
+    "id": "IDX-0060",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "major": "第5題",
+    "index_pdf_pages": [
+      203,
+      204
+    ],
+    "pdf_pages": [
+      203,
+      204
+    ],
+    "indexed_subquestions": [
+      "第5(b)題",
+      "第5(c)題"
+    ],
+    "covered_subquestions": [
+      "第5(a)題",
+      "第5(b)題",
+      "第5(c)題"
+    ],
+    "title": "子集合計數、七分支遞迴式與雜湊碰撞",
+    "source": "IDX-0060.cpp",
+    "explanation": "IDX-0060.md",
+    "result": "results/IDX-0060.txt",
+    "time_complexity": "(a) 此Pascal實作Θ(n²)，套入已知係數的公式本身O(1)。(b) 示範遞迴樹Θ(n^(log₂7))。(c) chaining查找／去重插入平均O(1+α)、最壞O(k)，k為鍵數；linear probing最壞O(m)，平均O(1)需良好雜湊與受控負載。"
+  },
+  {
+    "id": "IDX-0061",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "major": "第7題",
+    "index_pdf_pages": [
+      205,
+      206
+    ],
+    "pdf_pages": [
+      205,
+      206
+    ],
+    "indexed_subquestions": [
+      "第7(a)題",
+      "第7(c)題"
+    ],
+    "covered_subquestions": [
+      "第7(a)題",
+      "第7(b)題",
+      "第7(c)題"
+    ],
+    "title": "Prim 從5與3出發的選邊順序",
+    "source": "IDX-0061.cpp",
+    "explanation": "IDX-0061.md",
+    "result": "results/IDX-0061.txt",
+    "time_complexity": "矩陣Prim Θ(V²)；比較兩個邊集合的示例O(V log V)。"
+  },
+  {
+    "id": "IDX-0062",
+    "year": 115,
+    "subject": "資訊科技與管理",
+    "major": "第8題",
+    "index_pdf_pages": [
+      207
+    ],
+    "pdf_pages": [
+      207
+    ],
+    "indexed_subquestions": [
+      "第8(a)題",
+      "第8(b)題"
+    ],
+    "covered_subquestions": [
+      "第8(a)題",
+      "第8(b)題"
+    ],
+    "title": "兩串列 Merge 與 Merge Sort 遞迴式",
+    "source": "IDX-0062.cpp",
+    "explanation": "IDX-0062.md",
+    "result": "results/IDX-0062.txt",
+    "time_complexity": "Merge Θ(n₁+n₂)，兩邊各n時Θ(n)。Merge Sort Θ(n log n)；只列印合併子區間的追蹤總量亦O(n log n)。"
+  },
+  {
+    "id": "IDX-0063",
+    "year": 114,
+    "subject": "資訊科技與管理",
+    "major": "第12題",
+    "index_pdf_pages": [
+      215
+    ],
+    "pdf_pages": [
+      215,
+      216
+    ],
+    "indexed_subquestions": [
+      "第12(a)題",
+      "第12(b)題"
+    ],
+    "covered_subquestions": [
+      "第12(a)題",
+      "第12(b)題",
+      "第12(c)題"
+    ],
+    "title": "跳1／2／3階：無記憶化遞迴與 DP",
+    "source": "IDX-0063.cpp",
+    "explanation": "IDX-0063.md",
+    "result": "results/IDX-0063.txt",
+    "time_complexity": "遞迴呼叫數O(3ⁿ)是正確的寬鬆上界；更緊為Θ(ρⁿ)，ρ≈1.839286755是x³=x²+x+1的最大實根。DP Θ(n)，以固定寬度整數算術為O(1)計。"
+  },
+  {
+    "id": "IDX-0064",
+    "year": 114,
+    "subject": "資訊科技與管理",
+    "major": "第13題",
+    "index_pdf_pages": [
+      216,
+      217
+    ],
+    "pdf_pages": [
+      216,
+      217
+    ],
+    "indexed_subquestions": [
+      "第13(a)題",
+      "第13(b)題"
+    ],
+    "covered_subquestions": [
+      "第13(a)題",
+      "第13(b)題"
+    ],
+    "title": "加權最短路徑與 BFS 反例",
+    "source": "IDX-0064.cpp",
+    "explanation": "IDX-0064.md",
+    "result": "results/IDX-0064.txt",
+    "time_complexity": "此矩陣Dijkstra Θ(V²)；矩陣BFS O(V²)，路徑還原O(V)。若改鄰接串列，BFS可為O(V+E)。"
+  },
+  {
+    "id": "IDX-0065",
+    "year": 114,
+    "subject": "資訊科技與管理",
+    "major": "第14題",
+    "index_pdf_pages": [
+      218
+    ],
+    "pdf_pages": [
+      218
+    ],
+    "indexed_subquestions": [
+      "第14題"
+    ],
+    "covered_subquestions": [
+      "第14題"
+    ],
+    "title": "負權重 DAG 使 Dijkstra 定案失效",
+    "source": "IDX-0065.cpp",
+    "explanation": "IDX-0065.md",
+    "result": "results/IDX-0065.txt",
+    "time_complexity": "矩陣反例Dijkstra Θ(V²)；Bellman-Ford最壞O(VE)，本例提前收斂；核對用Floyd Θ(V³)。程式合計O(V²+VE+V³)。"
+  },
+  {
+    "id": "IDX-0066",
+    "year": 113,
+    "subject": "資訊科技與管理",
+    "major": "第5題",
+    "index_pdf_pages": [
+      222
+    ],
+    "pdf_pages": [
+      222
+    ],
+    "indexed_subquestions": [
+      "第5題"
+    ],
+    "covered_subquestions": [
+      "第5題"
+    ],
+    "title": "8-bit AND／OR／XOR",
+    "source": "IDX-0066.cpp",
+    "explanation": "IDX-0066.md",
+    "result": "results/IDX-0066.txt",
+    "time_complexity": "固定8-bit運算及輸出O(1)。若字串長度為b且逐位計算，則是Θ(b)。"
+  },
+  {
+    "id": "IDX-0067",
+    "year": 113,
+    "subject": "資訊科技與管理",
+    "major": "第11題",
+    "index_pdf_pages": [
+      225
+    ],
+    "pdf_pages": [
+      225
+    ],
+    "indexed_subquestions": [
+      "第11題"
+    ],
+    "covered_subquestions": [
+      "第11題"
+    ],
+    "title": "四環：四頂點組合暴力偵測",
+    "source": "IDX-0067.cpp",
+    "explanation": "IDX-0067.md",
+    "result": "results/IDX-0067.txt",
+    "time_complexity": "最壞Θ(n⁴)：有C(n,4)=Θ(n⁴)組，每組常數次矩陣查詢；無邊圖必檢查完全部組合。"
+  },
+  {
+    "id": "IDX-0068",
+    "year": 113,
+    "subject": "資訊科技與管理",
+    "major": "第12題",
+    "index_pdf_pages": [
+      226
+    ],
+    "pdf_pages": [
+      226
+    ],
+    "indexed_subquestions": [
+      "第12題"
+    ],
+    "covered_subquestions": [
+      "第12題"
+    ],
+    "title": "四環：共同鄰居矩陣與提前終止",
+    "source": "IDX-0068.cpp",
+    "explanation": "IDX-0068.md",
+    "result": "results/IDX-0068.txt",
+    "time_complexity": "忽略提前終止，三層迴圈可給O(n³)粗上界。本實作遇重複邻居對即回傳：每個無序對{s,t}最多首次記錄一次，再多1次就結束，因此處理對數≤C(n,2)+1。矩陣初始化及鄰居掃描O(n²)，整體更緊界為Θ(n²)。"
+  }
+]

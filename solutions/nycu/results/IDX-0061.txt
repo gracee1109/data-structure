@@ -1,0 +1,15 @@
+root=5
+5-4 weight=4
+4-3 weight=1
+4-2 weight=2
+4-6 weight=3
+5-1 weight=5
+total=15
+root=3
+3-4 weight=1
+4-2 weight=2
+4-6 weight=3
+4-5 weight=4
+5-1 weight=5
+total=15
+same MST=true

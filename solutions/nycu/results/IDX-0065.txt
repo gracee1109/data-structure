@@ -1,0 +1,5 @@
+counterexample Dijkstra path: 6 5 2
+wrong distance=2
+Bellman-Ford path: 6 4 3 2
+true distance=1
+general-purpose Dijkstra rejects the negative-edge input

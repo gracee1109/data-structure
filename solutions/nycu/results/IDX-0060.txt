@@ -1,0 +1,14 @@
+(a) subsets(n=8)=163
+(b) log2(7)=2.80735; representative T(8)=715; calls=400
+(c) separate chaining:
+0:
+1: 1 6 11 16 21 26
+2:
+3:
+4:
+linear probing:
+0:21
+1:1
+2:6
+3:11
+4:16

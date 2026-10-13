@@ -228,6 +228,9 @@ def write_outputs(out, rows, exams, counts):
         if school == '政大' and (Path(__file__).resolve().parents[1] / 'solutions/nccu/README.md').is_file():
             per_school += ['## 已完成題解', '',
                            '[政大34筆題解、C++17與執行結果](../../solutions/nccu/README.md)（IDX-0025–IDX-0058）。', '']
+        if school == '陽交大' and (Path(__file__).resolve().parents[1] / 'solutions/nycu/README.md').is_file():
+            per_school += ['## 已完成題解', '',
+                           '[交大10筆題解、C++17與執行結果](../../solutions/nycu/README.md)（IDX-0059–IDX-0068，涵蓋完整22個小題）。', '']
         per_school.extend(report[start + 2:])
         (out / f'{school}.md').write_text('\n'.join(per_school), encoding='utf-8')
     (out / '題目索引.md').write_text('\n'.join(report), encoding='utf-8')

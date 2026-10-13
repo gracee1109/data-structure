@@ -1,0 +1,5 @@
+weighted shortest: 6 5 2
+weight=2
+BFS order: 6 4 5 2 3 1
+BFS path: 6 4 2
+BFS hops=2; path weight=3
